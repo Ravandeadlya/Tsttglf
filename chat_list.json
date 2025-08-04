@@ -1,10 +1,8 @@
 [
     {
-        "source": -1002411902615,
-        "destinations": [
-            -1002356490815
-        ],
-        "prefix": "",
-        "suffix": ""
+        "source": "-1002411902615",
+        "destinations": ["1002356490815"],
+        "prefix": "Optional prefix",
+        "suffix": "hel suffix"
     }
 ]
